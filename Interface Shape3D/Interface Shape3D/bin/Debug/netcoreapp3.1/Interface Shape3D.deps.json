@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Interface Shape3D/1.0.0": {
+        "runtime": {
+          "Interface Shape3D.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interface Shape3D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

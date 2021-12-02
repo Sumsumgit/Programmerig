@@ -1,0 +1,22 @@
+﻿<Window x:Class="WPF_Frågesport.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Frågesport"
+        mc:Ignorable="d"
+        Title="Frågesport" Height="450" Width="800">
+    
+   
+    <StackPanel Orientation="Vertical">
+        <StackPanel.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="#FF2E97C6" Offset="0.715"/>
+            </LinearGradientBrush>
+        </StackPanel.Background>
+        <TextBlock Name="fråga" Text="Här skall frågan vara" FontSize="40" Margin="10" TextAlignment="center" Foreground="#FFF3EEEE" FontFamily="Showcard Gothic" TextWrapping="WrapWithOverflow"/>
+        <TextBlock Name="alternativ" FontSize="25" Margin="10" TextAlignment="Center" Visibility="Hidden" Foreground="#FFF3EEEE" FontFamily="Showcard Gothic"/>
+        <TextBox Name="svar" Text="" FontSize="25" Margin="150,50,150,50" TextAlignment="Center" KeyDown="TextBox_KeyDown" Background="{x:Null}" BorderBrush="#FF001B6B" BorderThickness="10,10,10,10" FontFamily="Showcard Gothic" Foreground="White"/>
+    </StackPanel>
+</Window>

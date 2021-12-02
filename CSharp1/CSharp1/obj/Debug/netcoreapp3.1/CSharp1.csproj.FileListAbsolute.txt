@@ -1,0 +1,14 @@
+C:\Users\Elev\source\repos\CSharp1\CSharp1\bin\Debug\netcoreapp3.1\CSharp1.exe
+C:\Users\Elev\source\repos\CSharp1\CSharp1\bin\Debug\netcoreapp3.1\CSharp1.deps.json
+C:\Users\Elev\source\repos\CSharp1\CSharp1\bin\Debug\netcoreapp3.1\CSharp1.runtimeconfig.json
+C:\Users\Elev\source\repos\CSharp1\CSharp1\bin\Debug\netcoreapp3.1\CSharp1.runtimeconfig.dev.json
+C:\Users\Elev\source\repos\CSharp1\CSharp1\bin\Debug\netcoreapp3.1\CSharp1.dll
+C:\Users\Elev\source\repos\CSharp1\CSharp1\bin\Debug\netcoreapp3.1\CSharp1.pdb
+C:\Users\Elev\source\repos\CSharp1\CSharp1\obj\Debug\netcoreapp3.1\CSharp1.csproj.AssemblyReference.cache
+C:\Users\Elev\source\repos\CSharp1\CSharp1\obj\Debug\netcoreapp3.1\CSharp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elev\source\repos\CSharp1\CSharp1\obj\Debug\netcoreapp3.1\CSharp1.AssemblyInfoInputs.cache
+C:\Users\Elev\source\repos\CSharp1\CSharp1\obj\Debug\netcoreapp3.1\CSharp1.AssemblyInfo.cs
+C:\Users\Elev\source\repos\CSharp1\CSharp1\obj\Debug\netcoreapp3.1\CSharp1.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\CSharp1\CSharp1\obj\Debug\netcoreapp3.1\CSharp1.dll
+C:\Users\Elev\source\repos\CSharp1\CSharp1\obj\Debug\netcoreapp3.1\CSharp1.pdb
+C:\Users\Elev\source\repos\CSharp1\CSharp1\obj\Debug\netcoreapp3.1\CSharp1.genruntimeconfig.cache

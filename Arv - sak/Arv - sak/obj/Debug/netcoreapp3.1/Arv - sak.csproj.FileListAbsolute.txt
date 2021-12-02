@@ -1,0 +1,14 @@
+C:\Users\Elev\source\repos\Arv - sak\Arv - sak\obj\Debug\netcoreapp3.1\Arv - sak.csproj.AssemblyReference.cache
+C:\Users\Elev\source\repos\Arv - sak\Arv - sak\obj\Debug\netcoreapp3.1\Arv - sak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elev\source\repos\Arv - sak\Arv - sak\obj\Debug\netcoreapp3.1\Arv - sak.AssemblyInfoInputs.cache
+C:\Users\Elev\source\repos\Arv - sak\Arv - sak\obj\Debug\netcoreapp3.1\Arv - sak.AssemblyInfo.cs
+C:\Users\Elev\source\repos\Arv - sak\Arv - sak\obj\Debug\netcoreapp3.1\Arv - sak.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\Arv - sak\Arv - sak\bin\Debug\netcoreapp3.1\Arv - sak.exe
+C:\Users\Elev\source\repos\Arv - sak\Arv - sak\bin\Debug\netcoreapp3.1\Arv - sak.deps.json
+C:\Users\Elev\source\repos\Arv - sak\Arv - sak\bin\Debug\netcoreapp3.1\Arv - sak.runtimeconfig.json
+C:\Users\Elev\source\repos\Arv - sak\Arv - sak\bin\Debug\netcoreapp3.1\Arv - sak.runtimeconfig.dev.json
+C:\Users\Elev\source\repos\Arv - sak\Arv - sak\bin\Debug\netcoreapp3.1\Arv - sak.dll
+C:\Users\Elev\source\repos\Arv - sak\Arv - sak\bin\Debug\netcoreapp3.1\Arv - sak.pdb
+C:\Users\Elev\source\repos\Arv - sak\Arv - sak\obj\Debug\netcoreapp3.1\Arv - sak.dll
+C:\Users\Elev\source\repos\Arv - sak\Arv - sak\obj\Debug\netcoreapp3.1\Arv - sak.pdb
+C:\Users\Elev\source\repos\Arv - sak\Arv - sak\obj\Debug\netcoreapp3.1\Arv - sak.genruntimeconfig.cache

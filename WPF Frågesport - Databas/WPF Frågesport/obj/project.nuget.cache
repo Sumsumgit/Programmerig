@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "41Tq51TPvEPr2lMHA75aUibemyvk5lOaa0mHA1AkY55st+H+EoOd6qUtvtGUze5BHE82Lgdn1Bsp88lwu0F8YQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elev\\OneDrive\\Programmering\\WPF Frågesport - Databas\\WPF Frågesport\\WPF Frågesport.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elev\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0\\microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
+    "C:\\Users\\Elev\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\Elev\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
